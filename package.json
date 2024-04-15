@@ -1,0 +1,21 @@
+{
+  "name": "hexly_1102v_abstractions",
+  "version": "1.0.0",
+  "description": "![result_showcase](./img/image.png)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abramov Andrey",
+  "license": "ISC",
+  "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "globals": "^15.0.0"
+  }
+}
